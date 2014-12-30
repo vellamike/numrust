@@ -1,0 +1,5 @@
+[package]
+
+name = "numrust"
+version = "0.0.1"
+authors = ["Mike Vella <vellamike@gmail.com>"]
